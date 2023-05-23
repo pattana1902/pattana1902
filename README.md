@@ -37,6 +37,6 @@ If you have any questions, project inquiries, or collaboration opportunities, pl
 Connect with me on social media to stay updated on my latest projects and activities:
 
 - Twitter: [twitter.com/Pattana_19](https://twitter.com/Pattana_19)
-- LinkedIn: [linkedin.com/in/pattanasak-chaonchom](https://www.linkedin.com/in/pattanasak-chaonchom)
+- LinkedIn: [linkedin.com/in/pattanasak-chaonchom](https://www.linkedin.com/in/pattanasak-chaonchom-118365242/)
 
 Thank you for visiting my GitHub profile! I look forward to connecting with you and exploring the world of coding together.
